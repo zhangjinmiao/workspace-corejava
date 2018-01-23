@@ -19,5 +19,7 @@ DelayQueue中的元素只有当其指定的延迟时间到了，才能够从队�
 
 
 
->参考：http://blog.csdn.net/goldenfish1919/article/details/50923450
+**参考：**
+>- [ 7天自动收货，30分钟不支付订单自动取消](http://blog.csdn.net/goldenfish1919/article/details/50923450)
+>- [基于Redis实现的延迟队列](https://github.com/ouqiang/delay-queue)
 

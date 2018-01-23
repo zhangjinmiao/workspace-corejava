@@ -92,4 +92,17 @@ public class TaskQueueDaemonThread {
         return t.remove(task);
     }
 
+    public static void main(String[] args) throws InterruptedException {
+        TaskQueueDaemonThread taskQueueDaemonThread = TaskQueueDaemonThread.getInstance();
+        for (int i = 0; i < 10; i++) {
+            taskQueueDaemonThread.put(1000 * (i + 1), new Runnable() {
+                @Override
+                public void run() {
+                    System.out.println("now: " + System.currentTimeMillis());
+                }
+            });
+        }
+        taskQueueDaemonThread.init();
+    }
+
 }
