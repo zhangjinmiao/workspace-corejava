@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @author jimzhang
  * @version V1.0.0
- * @description http://blog.csdn.net/goldenfish1919/article/details/50923450
+ * @description <7天自动收货，30分钟不支付订单自动取消是如何实现的？>http://blog.csdn.net/goldenfish1919/article/details/50923450</>
  * @home <>https://segmentfault.com/u/itzhangjm</>
  * @date 2018-01-23 14:33
  */
