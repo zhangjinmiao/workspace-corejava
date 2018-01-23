@@ -5,7 +5,7 @@ import java.util.concurrent.*;
 /**
  * @author jimzhang
  * @version V1.0.0
- * @description
+ * @description 多线程工具类
  * @home <>https://segmentfault.com/u/itzhangjm</>
  * @date 2018-01-23 13:34
  */
