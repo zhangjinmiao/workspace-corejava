@@ -1,4 +1,4 @@
-package com.jimzhang.demo.util.hongyong;
+package com.jimzhang.demo.util.hongyong.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
