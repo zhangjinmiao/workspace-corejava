@@ -12,7 +12,8 @@ import java.util.TreeSet;
  */
 public class Test01 {
     /**
-     * TreeSet要求存放的对象所属的类必须实现Comparable接口，该接口提供了比较元素的compareTo()方法，当插入元素时会回调该方法比较元素的大小。
+     * TreeSet要求存放的对象所属的类必须实现Comparable接口，该接口提供了比较元素的compareTo()方法，
+     * 当插入元素时会回调该方法比较元素的大小。
      * @param args
      */
     public static void main(String[] args) {

@@ -2,27 +2,6 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day1/IntroSpectorTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day1/ReflectTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day1/ReflectTest2.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day2/AnnotationTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day3/MyAdvice.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day3/thread/BlockingQueueTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day3/thread/CountdownLatchTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day3/thread/CyclicBarrierTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day3/thread/ExchangerTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day3/thread/FutureTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day3/thread/SemaphoreTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day3/thread/SingleThreadPool.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day3/thread/ThreadLocalTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/cn/itcast/day3/thread/ThreadPoolTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/geyiming/javatuning/ch2/pool/ObjectPoolDemo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/geyiming/javatuning/ch3/说明.txt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/geyiming/javatuning/ch4/gs/future/ClientThread.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/geyiming/javatuning/ch5/memory/WordResueGC.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/geyiming/javatuning/ch5/说明.txt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/geyiming/javatuning/ch6/toolscheck/说明.txt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/org/my/API/继承/HelloB.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../zxx-javaenhance/src/org/my/API/继承/Son.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../java8-demo" charset="UTF-8" />
   </component>
 </project>
