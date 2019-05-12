@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../java8-demo/java8-demo.iml" filepath="$PROJECT_DIR$/../java8-demo/java8-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pdf-demo/pdf-demo.iml" filepath="$PROJECT_DIR$/../pdf-demo/pdf-demo.iml" />
-      <module fileurl="file://E:/workspace-javaExamples/Test/zxx-javaenhance.iml" filepath="E:/workspace-javaExamples/Test/zxx-javaenhance.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Test/zxx-javaenhance.iml" filepath="$PROJECT_DIR$/../Test/zxx-javaenhance.iml" />
+      <module fileurl="file://E:/workspace-javaExamples/Test/zxx-javaenhance.iml" filepath="E:/workspace-javaExamples/Test/zxx-javaenhance.iml" />
     </modules>
   </component>
 </project>

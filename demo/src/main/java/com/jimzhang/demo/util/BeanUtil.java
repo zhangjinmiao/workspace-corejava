@@ -1,11 +1,11 @@
 package com.jimzhang.demo.util;
 
-import org.springframework.cglib.beans.BeanMap;
-
+import com.jimzhang.demo.test.User;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import org.springframework.cglib.beans.BeanMap;
 
 /**
  * @author jimzhang
@@ -92,11 +92,11 @@ public class BeanUtil {
 
     public static void main(String[] args) {
 
-//        User user = new User("zhangjim", "海淀区", 27, "北大");
-//        for (int i = 0; i < 1000000; i++) {
-//            Map<String, Object> stringObjectMap = beanToMap(user);
-//            System.out.println(stringObjectMap.toString());
-//        }
+        User user = new User("zhangjim", "海淀区", 27, "北大");
+        for (int i = 0; i < 1000000; i++) {
+            Map<String, Object> stringObjectMap = beanToMap(user);
+            System.out.println(stringObjectMap.toString());
+        }
 
         int x=10,y=3;
         System.out.printf("%d,%d\n",x--,--y);
